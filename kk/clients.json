@@ -1,0 +1,13 @@
+[
+    {
+        "client_id": "company_a",
+        "client_name": "Company Alpha",
+        "api_keys": {
+            "binance": {
+                "apiKey": "alpha_binance_key",
+                "secret": "alpha_binance_secret"
+            }
+        },
+        "dev_auth_token": "alpha_dev_123"
+    }
+]
